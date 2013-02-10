@@ -1,0 +1,22 @@
+{
+  "name": "mixcloud-nodejs",
+  "version": "0.0.1",
+  "authors": [
+    "Darko Kuzmanovski <darko.kuzmanovski@gmail.com>"
+  ],
+  "url": "https://github.com/kuzman/mixcloud-nodejs",
+  "keywords": [
+    "mixcloud",
+    "wrapper",
+    "api",
+    "api-client",
+    "mixcloud.com"
+  ],
+  "dependencies": {
+    "jsonraver": "0.5.0",
+    "querystring": "latest"
+  },
+  "engines": {
+    "node": ">= 0.8.14"
+  }
+}
