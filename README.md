@@ -2,6 +2,10 @@
 
 Mixcloud JavaScript wrapper for nodejs
 
+# Usage
+
+mixcloud-nodejs returns the JSON object prased. So if you want to get the content of the JSON you need to use JSON.stringify(obj)
+
 ## License
 
 (The MIT License)
