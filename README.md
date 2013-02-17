@@ -4,7 +4,16 @@ Mixcloud JavaScript wrapper for nodejs
 
 # Usage
 
-mixcloud-nodejs returns the JSON object prased. So if you want to get the content of the JSON you need to use JSON.stringify(obj)
+mixcloud-nodejs returns the JSONP object. So if you want to get the content of the JSON you need to use JSON.stringify(obj)
+
+# Test
+
+For running the tests you will need to navifate to the test folder and run
+
+'''
+node test.js
+'''
+you will need express module to be installed
 
 ## License
 
